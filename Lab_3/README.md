@@ -32,7 +32,7 @@ MY LOVE FOR THE ROMAN EMPIRE IS UNDENIABLY GREATER THAN FOR MYSELF. THE GREATEST
 
 ##### <a id="Caesar_Chipher_didnt_work"></a>Caesar_Chipher_didnt_work
 
-![alt text](https://github.com/cristeav49/SI/blob/master/Lab_3/images/1.png "Caesar_Chipher_didnt_work")
+![alt text](https://github.com/cristeav49/SI/blob/master/Lab_3/images/1.PNG "Caesar_Chipher_didnt_work")
 
 It happens when there are no words in dictionary provided.
 
