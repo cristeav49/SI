@@ -8,7 +8,7 @@
 
 ##### <a id="Deadline_decryption"></a>Deadline_decryption 
 <p>
-    <img src="https://github.com/cristeav49/SI/tree/master/Lab_3/images/2.PNG" width="1600" height="870" />
+    <img src="https://github.com/cristeav49/SI/tree/master/Lab_3/images/2.PNG" width="400" height="217" />
 </p>
 ![alt text](https://github.com/cristeav49/SI/tree/master/Lab_3/images/2.PNG "Deadline_decryption ")
 
