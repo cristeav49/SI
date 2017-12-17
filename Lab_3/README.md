@@ -7,8 +7,9 @@
 * [Implementing_romanian_dictionary](#Implementing_romanian_dictionary)
 
 ##### <a id="Deadline_decryption"></a>Deadline_decryption 
-
-
+<p>
+    <img src="https://github.com/cristeav49/SI/tree/master/Lab_3/images/2.PNG" width="1600" height="870" />
+</p>
 ![alt text](https://github.com/cristeav49/SI/tree/master/Lab_3/images/2.PNG "Deadline_decryption ")
 
 HI GUYS THE DEADLINE FOR THIS LABORATORY IS THE TWENTIETH OF DECEMBER I WOULD LIKE TO WISH YOU GOOD LUCK WITH IT AND HAVE A NICE LIFE
