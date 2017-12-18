@@ -1,4 +1,4 @@
-What is a Slowloris DDoS attack?
+﻿What is a Slowloris DDoS attack?
 -
 A DDOS(Distributed Denial of Service) attack is one of the major problem, that organizations are dealing with today.
 
@@ -75,10 +75,10 @@ Now simply restart apache to load the new module.
 How to use Slowloris
 --
 Requirements:
-# sudo apt-get update  
-# sudo apt-get install perl
-# sudo apt-get install libwww-mechanize-shell-perl
-# sudo apt-get install perl-mechanize
+#  sudo apt-get update  
+#  sudo apt-get install perl
+#  sudo apt-get install libwww-mechanize-shell-perl
+#  sudo apt-get install perl-mechanize
 
 
 1)Download slowloris.pl
