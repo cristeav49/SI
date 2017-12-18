@@ -75,9 +75,13 @@ Now simply restart apache to load the new module.
 How to use Slowloris
 --
 Requirements:
+
   sudo apt-get update  
+
   sudo apt-get install perl
+
   sudo apt-get install libwww-mechanize-shell-perl
+
   sudo apt-get install perl-mechanize
 
 
@@ -183,15 +187,15 @@ Implementation
 --
 I have chosen a blog developed by me represented bellow.
 <div align="center">
-<img src="https://github.com/cristeav49/SI/tree/master/Lab_2/images/3.png" width="500"/>
+<img src="https://github.com/cristeav49/SI/blob/master/Lab_2/images/3.png" width="500"/>
 </div>
 
 Run in Terminal slowloris.pl 
 <div align="center">
-<img src="https://github.com/cristeav49/SI/tree/master/Lab_2/images/2.png" width="500"/>
+<img src="https://github.com/cristeav49/SI/blob/master/Lab_2/images/2.png" width="500"/>
 </div>
 
 Webpage isn't available anymore
 <div align="center">
-<img src="https://github.com/cristeav49/SI/tree/master/Lab_2/images/1.png" width="500"/>
+<img src="https://github.com/cristeav49/SI/blob/master/Lab_2/images/1.png" width="500"/>
 </div>
